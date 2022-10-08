@@ -1,0 +1,18 @@
+.nav{
+    background-color: antiquewhite;
+}
+.nav ul{
+    margin: 10px;
+    padding: 10px;
+}
+.nav ul li{
+    display:inline;
+}
+.nav li{
+    padding: 5px;
+    margin: 5px;
+    padding-left: 75px;
+}
+.nav h1{
+    float: right;
+}
